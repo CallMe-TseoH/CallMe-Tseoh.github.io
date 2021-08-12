@@ -3,17 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8bfb92c54006a0e4a8dfb4ae6e1aa5d9",
+  "assets/AssetManifest.json": "4d15d69ed34469e9c54984e525d3df3b",
 "assets/assets/1.jpg": "dda2dd6a0d003c845d70a70fe77a429c",
 "assets/assets/2.jpg": "4a25fd80c8695654e493d4d7166d35aa",
 "assets/assets/3.jpg": "8fd8a22b2e36c1fbda41b5c41293e856",
 "assets/assets/4.jpg": "f28a9e2699b06770ef7f266f29a6cfae",
+"assets/assets/calendar.jpg": "15622601724fabe5e89f31ead37001f9",
+"assets/assets/classroom.jpg": "fd3e96937013633e5c73d09aeaa5ee3c",
+"assets/assets/degree.jpg": "4c2366e0f074e3685e0d8f51b7915521",
 "assets/assets/info.jpg": "d197f5c44df8ab39cdd2eef77ec4d597",
 "assets/assets/logo-ifage.png": "bfae8f981bc2dd1095d04e3d3a5540fd",
 "assets/assets/note.jpg": "ff05d4fb97107b0f3639f1336bc302f5",
 "assets/assets/registration.jpg": "a4873368ecceddfb55dac5fa44b629d8",
 "assets/assets/scolar.jpg": "7c63e778a75d2b0e9a9073f8d97c3f5d",
 "assets/assets/time.jpg": "8fa87f7aaf2c1927baaa7c375a258e47",
+"assets/assets/transfer.jpg": "410fb85ad10fe4662d25ef6dc27d29da",
 "assets/FontManifest.json": "e024588c84b5d20cb7869d6f908130e8",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "69e61156a7a6c3d928b16380c91c4a58",
@@ -22,9 +26,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5ff338e5c1d8de39c1c8949dc8644002",
-"/": "5ff338e5c1d8de39c1c8949dc8644002",
-"main.dart.js": "b24a2c7bf2c222d046ba650caefdd2f0",
+"index.html": "41f5799fccdd85a21dcc63bd771cb6af",
+"/": "41f5799fccdd85a21dcc63bd771cb6af",
+"main.dart.js": "b6788fbe693602d19605808359732cee",
 "manifest.json": "2c738529c9bb28c4b9d1bcff44d59304",
 "version.json": "4c73ed5af6730f8b3a9bf235e0ba9c4e"
 };
