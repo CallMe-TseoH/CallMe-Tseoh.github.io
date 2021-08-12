@@ -33028,7 +33028,7 @@ if(o==null)o=H.d(H.j("_instance"))
 s=o.gaU()
 o=o.ga6()
 r=t.p
-return new M.uv(T.dy(H.a([T.du(O.cs(new F.d6(C.r,new Y.cV(new R.jT(p>>>0),2,C.U),C.r,C.r),q,T.hn(H.a([O.cs(q,q,T.lK(D.Ay(q,T.eR(U.Sf("/logo-ifage.png",q,q,C.dG),q,q),C.aS,!1,q,q,q,q,q,q,q,q,q,q,q,new Z.Ob(this),q,q,q,q,q,q),C.dh,q,q,q,!0),q,125*(s/o.b),q,q,q,q,q,q)],r),C.bx,C.Q,C.aI),q,q,q,q,q,q,q,q),1),T.du(new X.f3(new Z.Oc(this),q),4)],r),C.Q),C.j,q,q)},
+return new M.uv(T.dy(H.a([T.du(O.cs(new F.d6(C.r,new Y.cV(new R.jT(p>>>0),2,C.U),C.r,C.r),q,T.hn(H.a([O.cs(q,q,T.lK(D.Ay(q,T.eR(U.Sf("logo-ifage.png",q,q,C.dG),q,q),C.aS,!1,q,q,q,q,q,q,q,q,q,q,q,new Z.Ob(this),q,q,q,q,q,q),C.dh,q,q,q,!0),q,125*(s/o.b),q,q,q,q,q,q)],r),C.bx,C.Q,C.aI),q,q,q,q,q,q,q,q),1),T.du(new X.f3(new Z.Oc(this),q),4)],r),C.Q),C.j,q,q)},
 gPV:function(){var s,r,q,p,o=null,n="_instance",m=$.af
 if(m==null)m=H.d(H.j(n))
 s=m.gaU()
@@ -33089,7 +33089,7 @@ b=c.gbM()
 c=c.ga6()
 a=$.af
 if(a==null)a=H.d(H.j(a2))
-return T.ed(0,O.cs(a1,a1,T.eF(C.am,H.a([r,T.ed(0,T.a8N(H.a([new T.ds(o,E.a9n(T.F4(C.eF,H.a([new B.eo("/registration.jpg","Gestionnaire d'inscription & r\xe9inscription",a1,330*(j/k.a),new Z.O3(a0),a1),new B.eo("/scolar.jpg","Gestionnaire de bourses",C.vE,330*(h/i.a),new Z.O4(a0),a1),new B.eo("/transfer.jpg","Gestionnaires de transferts",C.vB,330*(f/g.a),new Z.O5(a0),a1),new B.eo("/degree.jpg","Gestionnaire de dipl\xf4me",C.vC,330*(d/e.a),new Z.O6(a0),a1),new B.eo("/calendar.jpg","Gestionnaire de calendrier Universitaire",C.vD,330*(b/c.a),new Z.O7(a0),a1),new B.eo("/classroom.jpg","Gestionnaire de Salles",C.bE,330*(a.gbM()/a.ga6().a),new Z.O8(a0),a1)],m),C.o,C.bd,20*(l/n.b),0)),a1)],m),0),a1,a1,0,0,90*(p/q.b),a1)],m),C.aj,a1,a1),a1,a1,a1,new V.aF(20,0,20,0),a1,a1,a1,a1),a1,a1,0,0,85*(s/a3.b),a1)},
+return T.ed(0,O.cs(a1,a1,T.eF(C.am,H.a([r,T.ed(0,T.a8N(H.a([new T.ds(o,E.a9n(T.F4(C.eF,H.a([new B.eo("registration.jpg","Gestionnaire d'inscription & r\xe9inscription",a1,330*(j/k.a),new Z.O3(a0),a1),new B.eo("scolar.jpg","Gestionnaire de bourses",C.vE,330*(h/i.a),new Z.O4(a0),a1),new B.eo("transfer.jpg","Gestionnaires de transferts",C.vB,330*(f/g.a),new Z.O5(a0),a1),new B.eo("degree.jpg","Gestionnaire de dipl\xf4me",C.vC,330*(d/e.a),new Z.O6(a0),a1),new B.eo("calendar.jpg","Gestionnaire de calendrier Universitaire",C.vD,330*(b/c.a),new Z.O7(a0),a1),new B.eo("classroom.jpg","Gestionnaire de Salles",C.bE,330*(a.gbM()/a.ga6().a),new Z.O8(a0),a1)],m),C.o,C.bd,20*(l/n.b),0)),a1)],m),0),a1,a1,0,0,90*(p/q.b),a1)],m),C.aj,a1,a1),a1,a1,a1,new V.aF(20,0,20,0),a1,a1,a1,a1),a1,a1,0,0,85*(s/a3.b),a1)},
 qj:function(a,b){var s,r,q=null,p="_instance",o=$.af
 if(o==null)o=H.d(H.j(p))
 o=L.cb(b,q,q,q,A.cD(q,q,C.bE,q,q,q,q,q,q,q,q,14*Math.min(o.gbM()/o.ga6().a,o.gaU()/o.ga6().b),q,C.an,q,q,!0,q,q,q,q,q,q,q),C.bP,q)
@@ -33174,7 +33174,7 @@ p=$.P
 if(p==null)p=$.P=new E.ax()
 o=H.o(q).j("b3.T")
 p=p.b8(0,h,o).db.dy
-s=K.abz(T.aiW(U.Sf("/"+(H.c(p.gl(p)+1)+".jpg"),h,h,C.dG)),70*(r/s.b))
+s=K.abz(T.aiW(U.Sf(H.c(p.gl(p)+1)+".jpg",h,h,C.dG)),70*(r/s.b))
 r=$.af
 if(r==null)r=H.d(H.j(g))
 r=T.dz(h,28*(r.gaU()/r.ga6().b),h)
@@ -33432,7 +33432,7 @@ q.toString}n=$.P
 p=(n==null?$.P=new E.ax():n).b8(0,d,p).dy
 p=J.e(p.gl(p),o)
 m=J.rS(6,t.cl)
-for(n=t.p,l=o+1,k=0;k<6;++k){if(k===0){j=K.abz(new T.qI(U.Sf("/"+(""+l+".jpg"),d,d,C.dG),d),d)
+for(n=t.p,l=o+1,k=0;k<6;++k){if(k===0){j=K.abz(new T.qI(U.Sf(""+l+".jpg",d,d,C.dG),d),d)
 i=r.D9(o,k)
 h=$.af
 if(h==null)h=H.d(H.j(c))
@@ -33472,7 +33472,7 @@ r=$.af
 if(r==null)r=H.d(H.j(n))
 q=r.gbM()
 r=r.ga6()
-return new T.ds(m,T.F4(C.eF,H.a([new B.eo("/note.jpg","Cliquez-ici pour consulter ses Notes",o,o,new R.XG(p),o),new B.eo("/time.jpg","Cliquez-ici pour consulter sa Ponctualit\xe9",o,o,new R.XH(p),o),new B.eo("/scolar.jpg","Donn\xe9es de la scolarit\xe9",C.kd,o,new R.XI(p),o),new B.eo("/info.jpg","Informations Annexes",o,o,new R.XJ(p),o)],t.p),C.o,C.hS,15*(s/l.b),5*(q/r.a)),o)}}
+return new T.ds(m,T.F4(C.eF,H.a([new B.eo("note.jpg","Cliquez-ici pour consulter ses Notes",o,o,new R.XG(p),o),new B.eo("time.jpg","Cliquez-ici pour consulter sa Ponctualit\xe9",o,o,new R.XH(p),o),new B.eo("scolar.jpg","Donn\xe9es de la scolarit\xe9",C.kd,o,new R.XI(p),o),new B.eo("info.jpg","Informations Annexes",o,o,new R.XJ(p),o)],t.p),C.o,C.hS,15*(s/l.b),5*(q/r.a)),o)}}
 R.XG.prototype={
 $0:function(){var s=$.P
 if(s==null)s=$.P=new E.ax()
@@ -63082,7 +63082,7 @@ r($,"ar4","cy",function(){return P.aiP(H.acP(H.a([1],t.t)).buffer).getInt8(0)===
 r($,"at0","M6",function(){return new P.Np(P.w(t.N,H.a9("mB")))})
 r($,"atd","ab0",function(){return new P.V9(P.w(t.N,H.a9("an(n)")),P.w(t.S,t.h))})
 s($,"aqT","fk",function(){var q="Wade",p="IFG2021HU12",o="Assurance",n="Licence 3",m="22/08/2000"
-return H.a([V.a_g("05/01/1996",o,"Aliou Jeremy","/1.jpg",q,"Master 2",p),V.a_g("05/01/1998","Risk Management","Khady AMINATA","/2.jpg",q,"Master 1",p),V.a_g(m,"Comptabilit\xe9","Aline Asma","/3.jpg",q,n,p),V.a_g(m,o,"Fatoumata Rache","/4.jpg",q,n,p)],H.a9("t<E7>"))})
+return H.a([V.a_g("05/01/1996",o,"Aliou Jeremy","1.jpg",q,"Master 2",p),V.a_g("05/01/1998","Risk Management","Khady AMINATA","2.jpg",q,"Master 1",p),V.a_g(m,"Comptabilit\xe9","Aline Asma","3.jpg",q,n,p),V.a_g(m,o,"Fatoumata Rache","4.jpg",q,n,p)],H.a9("t<E7>"))})
 r($,"at1","ahB",function(){return new L.a1S()})
 r($,"asP","ahr",function(){return R.eh(C.d2,C.i,t.U)})
 r($,"asO","ahq",function(){return R.eh(C.i,C.vZ,t.U)})
